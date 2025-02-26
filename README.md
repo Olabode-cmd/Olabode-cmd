@@ -1,4 +1,6 @@
-<h3 align="center">Senior Frontend Developer</h3>
+<h1>Balogun Olabode. First of His Name.</h1>
+
+<h3>Senior Frontend Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olabode-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="olabode-cmd" /> </p>
 
