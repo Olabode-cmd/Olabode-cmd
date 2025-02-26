@@ -1,9 +1,9 @@
 <!-- Banner -->
 ![Header](https://your-image-url.com/banner.png)  
 
-<h1 align="center">Balogun Olabode. First of His Name</h1>
+<h1>Balogun Olabode. First of His Name</h1>
 
-<p align="center">
+<p>
   Senior Frontend Developer
 </p>
 
