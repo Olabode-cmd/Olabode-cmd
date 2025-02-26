@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://your-image-url.com/banner.png)  
+![Header]([https://avatars.githubusercontent.com/u/53216530?v=4])  
 
 <h1>Balogun Olabode. First of His Name</h1>
 
