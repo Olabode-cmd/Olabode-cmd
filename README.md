@@ -1,6 +1,6 @@
 <h1>Balogun Olabode. First of His Name.</h1>
 
-<h3>Senior Frontend Web Developer | React Native Developer</h4>
+<h3>Senior Frontend Engineer | React Native Developer</h4>
 
 🌱 I’m currently learning **MERN Stack**
 
