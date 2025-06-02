@@ -1,8 +1,8 @@
 <h1>Balogun Olabode. First of His Name.</h1>
 
-<h3>Web and Mobile Frontend Engineer</h4>
+<h3>Web and Mobile Frontend Enginee</h4>
 
-🌱 I’m currently learning **MERN Stack**
+Hi! I'm Olabode.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
