@@ -4,6 +4,30 @@
 
 Hi! I'm Olabode.
 
+Welcome to my corner of GitHub! I’m a frontend developer who enjoys turning complex ideas into smooth, scalable user interfaces — from dashboards to animations and mobile apps.
+
+---
+
+### 💡 What I Do
+
+- ⚛️ Build performant, accessible UIs with **React**, **TypeScript**, and **Tailwind**
+- 📱 Craft cross-platform experiences with **React Native**
+- 🎨 Love polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
+- 🔌 Work with real APIs, authentication flows, and state management
+
+I care about **clean code**, **user experience**, and **developer experience** — in that order.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   olabodebalogun80@gmail.com
