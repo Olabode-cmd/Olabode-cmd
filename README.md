@@ -10,12 +10,11 @@ Welcome to my corner of GitHub! I’m a frontend developer who enjoys turning co
 
 ### 💡 What I Do
 
-- ⚛️ Build performant, accessible UIs with **React**, **TypeScript**, and **Tailwind**
-- 📱 Craft cross-platform experiences with **React Native**
-- 🎨 Love polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
-- 🔌 Work with real APIs, authentication flows, and state management
+- ⚛️ Build beautiful UIs with **React**, **TypeScript**, and **Tailwind**
+- 📱 Create cross-platform interfaces with **React Native**
+- 🎨 Make polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
 
-I care about **clean code**, **user experience**, and **developer experience** — in that order.
+I care about **clean code**, **user experience**, and **developer experience**.
 
 ---
 
