@@ -1,6 +1,6 @@
 <h1>Balogun Olabode. First of His Name.</h1>
 
-<h3>Web and Mobile Frontend Engineer</h4>
+<h2>Frontend Engineer | React & TypeScript Specialist | Web + Mobile</h2>
 
 Hi! I'm Olabode.
 
