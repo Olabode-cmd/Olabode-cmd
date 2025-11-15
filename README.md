@@ -1,18 +1,18 @@
 <h1>Balogun Olabode. First of His Name.</h1>
 
-<h2>Frontend Engineer | React & TypeScript Specialist | Web + Mobile</h2>
+<h2>Frontend Engineer | React & TypeScript Specialist | Web + Mobile + WebXR</h2>
 
 Hi! I'm Olabode.
 
-Welcome to my corner of GitHub! I’m a frontend developer who enjoys turning complex ideas into smooth, scalable user interfaces — from dashboards to animations and mobile apps.
+Welcome to my corner of GitHub! I’m a frontend developer who enjoys turning complex ideas into smooth, scalable user interfaces from web admin dashboards to mobile apps.
 
 ---
 
 ### 💡 What I Do
 
-- ⚛️ Build beautiful UIs with **React**, **TypeScript**, and **Tailwind**
-- 📱 Create cross-platform interfaces with **React Native**
-- 🎨 Make polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
+- Build beautiful UIs with **React**, **TypeScript**, and **Tailwind**
+- Create cross-platform interfaces with **React Native**
+- Make polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
 
 I care about **clean code**, **user experience**, and **developer experience**.
 
