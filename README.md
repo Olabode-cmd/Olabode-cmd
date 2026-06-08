@@ -1,83 +1,77 @@
 <h1>Balogun Olabode. First of His Name.</h1>
 
-<h2>Frontend Engineer | React & TypeScript Specialist | Web + Mobile + WebXR</h2>
+<h3>Senior Product Engineer | Spatial Computing | Enterprise Systems | DevOps</h3>
 
-Hi! I'm Olabode.
+<p align="left">
+  <a href="mailto:olabodebalogun80@gmail.com"><img src="https://img.shields.io/badge/Email-olabodebalogun80%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Lagos,%20Nigeria-red?style=flat-square" alt="Location"/>
+</p>
 
-Welcome to my corner of GitHub! I’m a frontend developer who enjoys turning complex ideas into smooth, scalable user interfaces from web admin dashboards to mobile apps.
+I build software systems end-to-end—from the first wireframe and 3D matrix transformation to the CI/CD pipeline keeping it stable under peak load in production. 
+
+The defining thread across my work is **full ownership**. I don't hand off at the API boundary, look for an external design team, or wait around for DevOps to unblock an environment[cite: 2]. My perspective on rendering pipelines, data architecture, and complex system logic is shaped by a background in **Mathematics**, which informs how I write code far deeper than any trending framework does[cite: 2].
 
 ---
 
-### 💡 What I Do
+### 🚀 High-Impact Shipments
 
-- Build beautiful UIs with **React**, **TypeScript**, and **Tailwind**
-- Create cross-platform interfaces with **React Native**
-- Make polished design: responsiveness, pixel precision, and subtle motion with **GSAP/Framer Motion**
-
-I care about **clean code**, **user experience**, and **developer experience**.
+*   **Katalogue:** Architected a social commerce engine that bidirectionally syncs Instagram Business feeds with automated, AI-generated storefronts and processes live payments[cite: 2].
+*   **Spatial UI & WebXR:** Engineered a fully immersive 3D virtual art gallery running complex scene management, geometry instancing, and input abstraction across VR headsets, mobile, and desktop on lower-powered hardware[cite: 2].
+*   **Enterprise Platforms:** Deployed multi-tenant, location-aware student management architectures and front-office ERP dashboards tracking thousands of active endpoints with zero post-launch critical incidents[cite: 2].
+*   **Mobile Infrastructure:** Developed a native Kotlin step-counting module optimized for background battery performance alongside a React Native ecosystem serving 15,000+ organic active users[cite: 2].
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 The Arsenal
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Core Stack & 3D</strong><br>
+      • TypeScript / JavaScript<br>
+      • React / Next.js / Hono<br>
+      • React Native / Kotlin / Python<br>
+      • Three.js / WebXR / ARKit<br>
+      • TailwindCSS / GSAP
+    </td>
+    <td valign="top" width="33%">
+      <strong>Infrastructure & DevOps</strong><br>
+      • GitHub Actions (CI/CD)<br>
+      • Cloudflare (DNS/CDN/WAF)<br>
+      • VPS Administration / Linux<br>
+      • Expo EAS / Android Studio<br>
+      • App Store & Play Store Release
+    </td>
+    <td valign="top" width="33%">
+      <strong>Data & Enterprise</strong><br>
+      • PostgreSQL / Supabase<br>
+      • Firebase / REST APIs<br>
+      • Salesforce LWC / ERP Integrations<br>
+      • Role-Based Data Surfaces<br>
+      • Data Architecture Optimization
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  olabodebalogun80@gmail.com
+---
+
+### 📊 Production Metrics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olabode-cmd&show_icons=true&theme=dark&locale=en" alt="Olabode's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olabode-cmd&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olabode-cmd&theme=dark" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olabode-cmd&show_icons=true&locale=en&layout=compact" alt="olabode-cmd" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olabode-cmd&show_icons=true&locale=en" alt="olabode-cmd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olabode-cmd&" alt="olabode-cmd" /></p>
+<blockquote>
+"Olabode is ridiculously good at what he does." <br/>
+<strong>— Gideon Osadolor</strong>, Divisional Head, Digital Fortress Institute & CEO, Machine Firmament Digital Studio[cite: 2].
+</blockquote>
