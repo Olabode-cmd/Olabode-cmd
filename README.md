@@ -7,10 +7,10 @@
 
 ### `// WHAT I DO`
 
-> I build products end to end from first wireframe to the CI/CD pipeline keeping it alive[cite: 2].
-> Deepest expertise in React / React Native. Serious work in Three.js & WebXR[cite: 2].
-> I don't hand off at the API boundary. I can take the product all the way to the end: deployed, stable, maintained[cite: 2].
-> BSc Mathematics shapes how I think about rendering & system design more than any framework[cite: 2].
+> I build products end to end – first wireframe to the CI/CD pipeline keeping it alive[cite: 2]. <br/>
+> Deepest expertise in React / React Native, serious work in Three.js & WebXR[cite: 2]. <br/>
+> I don't hand off at the API boundary. I own the thing: deployed, stable, maintained[cite: 2]. <br/>
+> BSc Mathematics – shapes how I think about rendering & system design more than any framework[cite: 2].
 
 ---
 
