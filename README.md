@@ -1,5 +1,5 @@
 # Olabode Balogun. First of His Name.
-**Fullstack Product Engineer | Forward Depoyed Engineer | Graphics & Spatial Computing**
+**Fullstack Product Engineer | Forward Deployed Engineer | Graphics & Spatial Computing**
 
 I build software that holds up under real usage, covering everything from the first wireframe to the CI/CD pipeline keeping it live. Five years shipping across the full stack, with a deliberate focus on web & mobile app development, system architecture, graphics programming, and the edge cases most engineers skip.
 
