@@ -1,76 +1,73 @@
-# Olabode Balogun. First of His Name.
-**Fullstack Product Engineer | Forward Deployed Engineer | Graphics & Spatial Computing**
+# Olabode Balogun. First of His Name
 
-I build software that holds up under real usage, covering everything from the first wireframe to the CI/CD pipeline keeping it live. Five years shipping across the full stack, with a deliberate focus on web & mobile app development, system architecture, graphics programming, and the edge cases most engineers skip.
+**Senior Frontend & Product Engineer** · Lagos, Nigeria (UTC+1)
 
-Based in **Lagos, Nigeria** · Open to remote.
+I build products in React, React Native and TypeScript, and I stay with them after launch. Most of my work covers the whole path: Figma prototype, app, backend, store release, and the fix at an awkward hour when something breaks. My working hours overlap with every European timezone, and I write things down so a team in another zone can pick up where I stopped.
+
+Open to full-time or contract roles, remote or with relocation.
+
+---
+
+## Selected work
+
+**[Katalogue](https://mykatalogue.com)** · Social commerce platform, founded and built end to end
+An AI model reads a seller's Instagram page, works out which posts are product listings, and syncs them to a storefront through Meta Graph API webhooks. Checkout, payments, order tracking and multi-tenant data isolation are built in. Mobile Lighthouse performance went from 77 to 94, and a 55-test Vitest suite covers the frontend, including the 401, token refresh and retry flow.
+`React` `Hono` `TypeScript` `Terraform` `Tauri` `Meta Graph API`
+
+**[Viazuri](https://viazuri.com)** · Travel platform for iOS, Android and web
+One React Native monorepo, with about 90% of components and business logic shared across all three platforms. WebSocket chat with group chats created automatically for each trip, Google Maps, in-app flight and hotel booking, and an AI concierge that hands off to a human agent when needed.
+`React Native` `React` `TypeScript` `Expo EAS` `GitHub Actions`
+
+**[RCCG Manuals & Bible](https://play.google.com/store/apps/details?id=com.bodejr.rccg&hl=en)** · Devotional app, 15,000 monthly active users
+Reached that scale with zero paid acquisition. Multiple Bible versions, bookmarks, notes and audio read-aloud, plus an admin CMS so church staff publish content without a developer.
+`React Native` `TypeScript`
+
+**[HappyFit](https://play.google.com/store/apps/details?id=com.lacemose.happyfit&hl=en)** · Fitness app with a custom Kotlin step counter
+A native module reads the Android step counter and detector sensors. A foreground service and a WorkManager watchdog keep counting in the background at low battery cost, and exact alarms reset daily totals at midnight across device states. Real-time global leaderboard and forum.
+`React Native` `Kotlin` `Firebase`
+
+**[Nigerian Art Gallery](https://nigerian-art-gallery.vercel.app/)** · 3D virtual gallery
+Three.js and WebXR scene that runs on desktop, mobile and VR headsets. Orbit controls, WASD movement, controller input, and WebRTC voice rooms.
+`Three.js` `WebXR` `React` `WebRTC`
+
+**[Godspeed](https://github.com/Olabode-cmd/roger-godspeed)** · Lightweight API client
+First tool in Thraggs, a small ecosystem of developer utilities built for low overhead.
+`TypeScript` `Bun` `Rust`
+
+Also built: a node-based AI pipeline editor on React Flow, with a DAG cycle-detection pass that validates a workflow before it runs.
 
 ---
 
 ## Stack
 
-```
-Frontend     TypeScript · React (with PWA support) · Next.js · TailwindCSS · GSAP
-Backend      Node.js · Hono · ExpressJs
-Mobile       React Native · Native Kotlin
-Desktop      Tauri · Rust
-Graphics     Three.js · WebXR · ARKit / ARCore · WebGL · GLSL
-Infra        GitHub Actions · Docker · Cloudflare Workers · Expo EAS
-```
-
----
-
-## Selected Work
-
-**[Katalogue](https://mykatalogue.com)** — Social Commerce Platform  
-Connect an Instagram Business account and get a live storefront in under five minutes. An AI engine scrapes and populates product listings directly from your feed and onto a storefront for customers to shop from.  
-`React` `Hono` `TypeScript` `Meta Graph API`
-
----
-
-**[HappyFit](https://happyfit.live)** — Cross-Platform Fitness App · 15,000+ Active Users  
-Engineered a native Kotlin step-counting module from scratch (custom background threading, minimal battery footprint, shipped with a real-time global leaderboard).  
-`React Native` `Kotlin` `TypeScript` `Firebase` `Expo EAS`
-
----
-
-**[Nigerian Art Gallery](https://nigerian-art-gallery.vercel.app/)** — Immersive 3D Experience  
-Virtual gallery optimized for desktop, mobile, and VR headsets. Custom WASD navigation, orbit controls, and floating context cards on object interaction.  
-`Three.js` `WebXR` `React` `GSAP`
-
----
-
-**Playful Cloud** *(In Progress)* — Passive Desktop Tracker  
-Hooks into kernel-level keyboard events to monitor typing cadence and stream data to a global real-time leaderboard. Runs silently on Windows and macOS.  
-`Tauri` `Rust` `TypeScript` `WebSockets`
+| | |
+|---|---|
+| Languages | TypeScript, JavaScript, Kotlin, Python, Rust |
+| Web | React, Next.js, Tailwind CSS, Redux, Vite |
+| Mobile | React Native, Expo EAS, custom Kotlin native modules |
+| Backend and data | Node.js, Hono, Express, PostgreSQL, Firebase, Supabase |
+| Desktop | Tauri |
+| Spatial | Three.js, WebXR, WebGPU |
+| Testing | Jest, Vitest, Playwright, Testing Library, MSW |
+| Infra | GitHub Actions, Cloudflare, Vercel, Terraform |
 
 ---
 
 ## Experience
 
-**Lead Product Engineer & Design Consultant** · Machine Firmament Digital Studio *(2026 – Present)*  
-Principal engineer across client platforms including Digital Fortress Institute, FHA Mortgage Bank, and Viazuri. Full ownership from architecture to deployment.
+- **Software Engineer**, Netzence (Aug 2026 to present). React, React Native and TypeScript across ride-hailing and climate products.
+- **Product & Design Engineer**, Machine Firmament Digital Studio (contract, Jan to Jul 2026). Led engineering and design on Viazuri and FHA Mortgage Bank.
+- **Frontend Engineer & Instructor**, NIIT | Digital Fortress Institute (2025). Built three platforms serving nearly 2,000 students across 3 centres, and trained 20+ banking professionals.
+- **Mobile Developer**, Sunday Joseph Group (contract, Nov 2024 to Mar 2025). Lead developer on RCCG Manuals & Bible and HappyFit.
+- Earlier: Abinci, Veenode Technologies, Perfcreg Solutions.
 
-**Lead Engineer & Instructor** · NIIT / Digital Fortress Institute *(2025)*  
-Shipped three high-concurrency platforms in parallel: a public-facing site, a CBT engine, and a multi-center student management portal serving 2,000+ active students.
-
-**Lead Mobile Developer** · Sunday Joseph Group *(Contract)*  
-End-to-end product ownership from sketch to App Store / Play Store. Shipped RCCG Daily Manuals (15K+ users, zero paid marketing) and HappyFit.
-
----
-
-## Background
-
-**BSc. Mathematics** — Lagos State University *(2021 – 2025)*  
-Where the graphics algorithms obsession started.
-
-**CS50** — Harvard University *(2022)*
+**Education:** BSc Mathematics, Lagos State University (2021 to 2025) · CS50, Harvard University (2022)
 
 ---
 
 ## Currently
 
-Deepening a graphics programming specialization — raw WebGL, GLSL shaders, and WebGPU. Building a PBR material explorer (Cook-Torrance BRDF) as the anchor project.
+Going deeper on graphics programming: raw WebGL, GLSL and WebGPU, with a PBR material explorer (Cook-Torrance BRDF) as the anchor project.
 
 ---
 
@@ -78,4 +75,4 @@ Deepening a graphics programming specialization — raw WebGL, GLSL shaders, and
 
 [olabodebalogun80@gmail.com](mailto:olabodebalogun80@gmail.com) · [Portfolio](https://bode-dev.katalougue.workers.dev) · [LinkedIn](https://linkedin.com/in/olabode-balogun)
 
-If you have a real architecture problem or a product that needs genuine technical ownership — let's talk.
+If your product needs someone who owns the outcome, not just the ticket, send me a message.
