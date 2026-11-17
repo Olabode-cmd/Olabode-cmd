@@ -1,6 +1,6 @@
 # Olabode Balogun. First of His Name
 
-**Senior Frontend & Product Engineer** · Lagos, Nigeria (UTC+1)
+**Senior Frontend & Product Engineer || Solutions Architect** · Lagos, Nigeria (UTC+1)
 
 I build products in React, React Native and TypeScript, and I stay with them after launch. Most of my work covers the whole path: Figma prototype, app, backend, store release, and the fix at an awkward hour when something breaks. My working hours overlap with every European timezone, and I write things down so a team in another zone can pick up where I stopped.
 
